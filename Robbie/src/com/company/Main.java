@@ -6,31 +6,42 @@ import java.io.InputStreamReader;
 
 public class Main {
 
-    public static int[][] objRobot = new int[10][10];
-
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-
         int x = 0;
         int y = 0;
 
-        visualizarRobot();
+        /**
+         * Para poder apasar parámetros al objeto en la clase específica, tengo que crear
+         * el constructor
+         */
 
+        // Declaro e instacia mi objeto que es un array
+        clsRobot objRobot = new clsRobot(x, y);
 
-    }
+        do {
 
-    public static void visualizarRobot() {
-
-        for (int i = 0; i < 10; i++) {
-            for (int j = 0; j < 10; j++) {
-
-                System.out.format("%3d",objRobot[i][j]);
-            }
             System.out.println();
-        }
+
+            // Visualizar posición del robot
+            System.out.println("Estan son las coordenadas de robbie: "+objRobot);
+            System.out.println();
+
+            clsRobot.visualizarTablero();
+
+            System.out.println("Dame las coordenadas de desplazamiento;");
+            System.out.print("x: ");
+            x = Utilidades.leerEntero();
+
+            System.out.print("y: ");
+            y = Utilidades.leerEntero();
+
+        } while ( true );
+
     }
+
 }
 
 
