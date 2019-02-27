@@ -10,18 +10,21 @@ public class Main {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        int x = 0;
-        int y = 0;
+        int x ;
+        int y ;
 
         /**
          * Para poder apasar parámetros al objeto en la clase específica, tengo que crear
-         * el constructor
+         * el constructor. No tengo que instanciar en el propio bucle el objeto. Si lo hago
+         * crearía un objeto constantemente.
          */
 
         // Declaro e instacia mi objeto que es un array
-        clsRobot objRobot = new clsRobot(x, y);
+        clsRobot objRobot = new clsRobot();
 
         do {
+
+
 
             System.out.println();
 
@@ -29,7 +32,13 @@ public class Main {
             System.out.println("Estan son las coordenadas de robbie: "+objRobot);
             System.out.println();
 
-            clsRobot.visualizarTablero();
+            /**
+             * En vez de hacer una llamada ala clase, como estoy utilizando atributos llamaré
+             * al propio objeto.
+             */
+
+            objRobot.visualizarTablero();
+            System.out.println();
 
             System.out.println("Dame las coordenadas de desplazamiento;");
             System.out.print("x: ");
@@ -38,10 +47,10 @@ public class Main {
             System.out.print("y: ");
             y = Utilidades.leerEntero();
 
+            objRobot.mover(x, y);
+
         } while ( true );
-
     }
-
 }
 
 

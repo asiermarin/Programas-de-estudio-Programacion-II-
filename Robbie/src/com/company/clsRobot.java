@@ -2,40 +2,38 @@ package com.company;
 
 public class clsRobot {
 
-    private int dX = 0;
-    private int dY = 0;
+    //Propiedades
+    private int x = 0;
+    private int y = 0;
 
+    public void mover(int dx, int dy) {
 
-    public clsRobot(int x, int y) {
-
-        this.dX = x;
-        this.dY = y;
-
+        x = dx;
+        y = dy;
     }
 
     //Para visualizar las coordenadas del robot
     @Override
     public String toString() {
         return "clsRobot{" +
-                "dX=" + dX +
-                ", dY=" + dY +
+                "dX=" + x +
+                ", dY=" + y +
                 '}';
     }
 
-    public static void visualizarTablero() {
+    //Para visualizar el tablero
+    public void visualizarTablero() {
 
-        for (int i = 0; i < 10; i++) {
-            for (int j = 0; j < 10; j++) {
+        for (int i = -5; i <= 5; i++) {
+            for (int j = -5; j <= 5; j++) {
 
-                System.out.print(".  ");
+                if (i == x && j == y) {
+                    System.out.print("R  ");
+                } else {
+                    System.out.print(".  ");
+                }
             }
             System.out.println();
         }
-
-        System.out.println();
-
     }
-
-
-
 }
