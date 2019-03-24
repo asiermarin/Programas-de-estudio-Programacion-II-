@@ -16,7 +16,7 @@ public class clsMenu {
         int op = 0;
 
         clsGestor objGestor = new clsGestor();
-        
+
         do {
             System.out.println("Selecciona el tipo de una opción:");
             System.out.println("----> 1. Introducir datos ");
