@@ -65,6 +65,13 @@ public class clsCreacionPersonas {
 		System.out.println();
 		System.out.println(listadoTrabajadores);
 
+
+
+
+
+
+
+
 		clsComparadorPorEdad comp2 = new clsComparadorPorEdad();
 
 		Collections.sort(listadoTrabajadores, comp2);
@@ -72,6 +79,15 @@ public class clsCreacionPersonas {
 		System.out.println("Los trabajadores ordenados por edad son: ");
 		System.out.println();
 		System.out.println(listadoTrabajadores);
+
+
+
+
+
+
+
+
+
 
 		clsComparadorPorAltura comp3 = new clsComparadorPorAltura();
 
