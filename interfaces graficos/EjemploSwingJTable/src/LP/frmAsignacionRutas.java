@@ -155,7 +155,7 @@ public class frmAsignacionRutas extends JFrame implements ActionListener
 	
 		
 		jlCamiones=new JLabel("Camiones disponibles");
-		
+
 		jpCamiones=new JPanel(new BorderLayout());
 		
 		jpCamiones.add(jlCamiones,BorderLayout.NORTH);

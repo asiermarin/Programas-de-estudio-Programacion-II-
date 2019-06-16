@@ -18,7 +18,7 @@ public class HelloWorldSwing {
         
         //Display the window.
         /*frame.pack();*/
-        frame.setSize(1000, 100);/*Tamaño en pixel*/
+            frame.setSize(1920, 1080);/*Tamaï¿½o en pixel*/
         
         frame.setVisible(true);
     }
@@ -27,6 +27,6 @@ public class HelloWorldSwing {
     {
         
     	createAndShowGUI();
-        System.out.println("Se acabó ela ejecución");
+        System.out.println("Se acabï¿½ ela ejecuciï¿½n");
     }
 }

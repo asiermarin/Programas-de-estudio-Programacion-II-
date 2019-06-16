@@ -1,3 +1,5 @@
+package com.company.LP;
+
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
 import java.awt.GridLayout;
@@ -34,9 +36,9 @@ public class Border extends JFrame {
 		
 		/*
 		 * 
-		 * Sitúa los elementos en una de estas 5 orientaciones:
+		 * Sitï¿½a los elementos en una de estas 5 orientaciones:
 Norte, Sur, Este, Oeste y Centro
-• Es el layout por defecto de los Frames
+ï¿½ Es el layout por defecto de los Frames
 		 */
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 450, 300);
@@ -67,13 +69,7 @@ Norte, Sur, Este, Oeste y Centro
 		JButton btnNewButton_4 = new JButton("Este");
 		contentPane.add(btnNewButton_4, BorderLayout.EAST);
 		
-		
-		
-		
-		
-		
-		
-		
+
 	}
 
 }

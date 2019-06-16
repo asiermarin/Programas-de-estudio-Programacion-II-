@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/COMUN/clsConstantes.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/COMUN/clsMiException.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/LD/AppendableObjectOutputStream.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/LD/itfDatos.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/LN/clsGestor.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/LP/clsPrincipal.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/LP/frmAsignacionRutas.java" charset="windows-1252" />
+  </component>
+</project>
