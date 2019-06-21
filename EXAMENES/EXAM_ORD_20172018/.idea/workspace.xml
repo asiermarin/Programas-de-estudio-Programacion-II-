@@ -2,39 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="272c8a7e-ec65-4268-b048-3a9180ce0784" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Examen_PROGII_17_18_Ordinaria_R00.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_PROGII_17_18_Ordinaria_R00.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/COMUN/clsConstantes$enTipo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/COMUN/clsConstantes$enTipo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/COMUN/clsConstantes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/COMUN/clsConstantes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LP/clsUtilidadesLP.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LP/clsUtilidadesLP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/LP/frmElectrodomesticos.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/LP/frmElectrodomesticos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/clsMainElectrodomesticos.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/clsMainElectrodomesticos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/COMUN/clsConstantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/COMUN/clsConstantes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LP/frmElectrodomesticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LP/frmElectrodomesticos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXTRAORDINARIA_17-18/Examen_PROGII_17_18_ExtraOrdinaria_R00.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../EXTRAORDINARIA_17-18/Examen_PROGII_17_18_ExtraOrdinaria_R00.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXTRAORDINARIA_17-18/src/LP/frmElectrodomesticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EXTRAORDINARIA_17-18/src/LP/frmElectrodomesticos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Examen_2019/.idea/libraries/mysql_connector_java_8_0_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_2019/.idea/libraries/mysql_connector_java_8_0_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modelo_examen_ex_2019/modelo_examen_ex_2019/src/com/company/COMUN/PropiedadInexistente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modelo_examen_ex_2019/modelo_examen_ex_2019/src/com/company/COMUN/ViviendaRepetidaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modelo_examen_ex_2019/modelo_examen_ex_2019/src/com/company/COMUN/clsConstantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modelo_examen_ex_2019/modelo_examen_ex_2019/src/com/company/COMUN/itfProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modelo_examen_ex_2019/modelo_examen_ex_2019/src/com/company/LD/clsConstantesBD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modelo_examen_ex_2019/modelo_examen_ex_2019/src/com/company/LD/clsDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modelo_examen_ex_2019/modelo_examen_ex_2019/src/com/company/LD/clsViviendaBD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modelo_examen_ex_2019/modelo_examen_ex_2019/src/com/company/LN/clsGestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modelo_examen_ex_2019/modelo_examen_ex_2019/src/com/company/LN/clsVivienda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modelo_examen_ex_2019/modelo_examen_ex_2019/src/com/company/LN/clsViviendaMovil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modelo_examen_ex_2019/modelo_examen_ex_2019/src/com/company/LN/clsViviendaTradicional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modelo_examen_ex_2019/modelo_examen_ex_2019/src/com/company/LP/inmobiliaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$amen_PROGII_17_18_Ordinaria_R00.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Examen_2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_2019/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/LD/Conexion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/LD/Conexion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/LD/clsDatos.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/LD/clsDatos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/LD/constantesBD.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/LD/constantesBD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/LN/GestorLN.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/LN/GestorLN.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/LN/Movil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/LN/Movil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/LN/Tradicional.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/LN/Tradicional.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/LP/clsUtilidadesLP.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/LP/clsUtilidadesLP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/LP/frmInmobiliaria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/LP/frmInmobiliaria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/clsMainInmobiliaria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/clsMainInmobiliaria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/comun/PropiedadInexistente.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/comun/PropiedadInexistente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/comun/ViviendaRepetidaException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/comun/ViviendaRepetidaException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/comun/clsConstantes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/comun/clsConstantes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/comun/itfPersistable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/comun/itfPersistable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/comun/itfProperty.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_2019/out/production/Examen/comun/itfProperty.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Examen_2019/src/LD/constantesBD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_2019/src/LD/constantesBD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Examen_2019/src/LN/GestorLN.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_2019/src/LN/GestorLN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Examen_2019/src/LN/Movil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_2019/src/LN/Movil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Examen_2019/src/LN/Tradicional.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_2019/src/LN/Tradicional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Examen_2019/src/LP/frmInmobiliaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Examen_2019/src/LP/frmInmobiliaria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EqualsHasCodeSet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../EqualsHasCodeSet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EqualsHasCodeSet/src/clsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EqualsHasCodeSet/src/clsMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../InterfacesComparables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfacesComparables/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -50,12 +32,12 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LN/clsGestor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
-              <caret line="95" column="32" lean-forward="true" selection-start-line="95" selection-start-column="32" selection-end-line="95" selection-end-column="32" />
+            <state relative-caret-position="411">
+              <caret line="86" column="26" lean-forward="true" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LN/clsElectrodomestico.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+            <state relative-caret-position="275">
+              <caret line="149" column="7" lean-forward="true" selection-start-line="149" selection-start-column="7" selection-end-line="149" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#315#316#0" expanded="true" />
@@ -109,8 +91,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LN/clsElectrodomesticoTipo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -118,20 +100,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LD/clsDatos.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LD/clsElectrodomesticoBD.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+            <state relative-caret-position="360">
+              <caret line="50" column="35" lean-forward="true" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -140,18 +110,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LD/clsElectrodomesticoBD.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LP/frmElectrodomesticos.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3961">
+            <state relative-caret-position="3859">
               <caret line="261" selection-start-line="261" selection-end-line="261" />
-              <folding>
-                <element signature="e#6694#6695#0" expanded="true" />
-                <element signature="e#6751#6752#0" expanded="true" />
-                <element signature="e#6972#6973#0" expanded="true" />
-                <element signature="e#7018#7019#0" expanded="true" />
-                <element signature="e#7058#7059#0" expanded="true" />
-                <element signature="e#7103#7104#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -168,7 +142,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/COMUN/clsConstantes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
+            <state relative-caret-position="425">
               <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
             </state>
           </provider>
@@ -178,7 +152,7 @@
         <entry file="file://$PROJECT_DIR$/src/LD/clsConstantesBD.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -204,12 +178,12 @@
         <option value="$PROJECT_DIR$/src/COMUN/clsConstantes.java" />
         <option value="$PROJECT_DIR$/src/LN/clsElectrodomesticoTipo.java" />
         <option value="$PROJECT_DIR$/src/LN/clsElectrodomesticoMarca.java" />
-        <option value="$PROJECT_DIR$/src/LN/clsElectrodomestico.java" />
         <option value="$PROJECT_DIR$/src/LD/clsDatos.java" />
         <option value="$PROJECT_DIR$/src/LD/clsConstantesBD.java" />
         <option value="$PROJECT_DIR$/src/LD/clsElectrodomesticoBD.java" />
         <option value="$PROJECT_DIR$/src/LN/clsGestor.java" />
         <option value="$PROJECT_DIR$/src/LP/frmElectrodomesticos.java" />
+        <option value="$PROJECT_DIR$/src/LN/clsElectrodomestico.java" />
       </list>
     </option>
   </component>
@@ -237,6 +211,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -278,10 +253,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/mysql-connector-java-8.0.15/mysql-connector-java-8.0.15.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -330,33 +305,34 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32868218" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.34263566" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32868218" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="XDebuggerManager">
@@ -410,6 +386,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/LN/clsGestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="86" column="26" lean-forward="true" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LN/clsElectrodomesticoTipo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LP/frmElectrodomesticos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3859">
+          <caret line="261" selection-start-line="261" selection-end-line="261" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/LP/clsUtilidadesLP.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -417,24 +417,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LN/clsElectrodomesticoMarca.java">
+    <entry file="file://$PROJECT_DIR$/src/COMUN/clsConstantes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="425">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LN/clsElectrodomesticoTipo.java">
+    <entry file="file://$PROJECT_DIR$/src/LD/clsConstantesBD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LN/clsElectrodomestico.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        <state relative-caret-position="275">
+          <caret line="149" column="7" lean-forward="true" selection-start-line="149" selection-start-column="7" selection-end-line="149" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#315#316#0" expanded="true" />
@@ -463,61 +463,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/COMUN/clsConstantes.java">
+    <entry file="file://$PROJECT_DIR$/src/LN/clsElectrodomesticoMarca.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LD/clsConstantesBD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LD/clsElectrodomesticoBD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LD/clsDatos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+        <state relative-caret-position="360">
+          <caret line="50" column="35" lean-forward="true" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LN/clsGestor.java">
+    <entry file="file://$PROJECT_DIR$/src/LD/clsElectrodomesticoBD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="95" column="32" lean-forward="true" selection-start-line="95" selection-start-column="32" selection-end-line="95" selection-end-column="32" />
+        <state relative-caret-position="210">
+          <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LP/frmElectrodomesticos.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3961">
-          <caret line="261" selection-start-line="261" selection-end-line="261" />
-          <folding>
-            <element signature="e#6694#6695#0" expanded="true" />
-            <element signature="e#6751#6752#0" expanded="true" />
-            <element signature="e#6972#6973#0" expanded="true" />
-            <element signature="e#7018#7019#0" expanded="true" />
-            <element signature="e#7058#7059#0" expanded="true" />
-            <element signature="e#7103#7104#0" expanded="true" />
           </folding>
         </state>
       </provider>

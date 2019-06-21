@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b03e7413-9cf7-45d2-9f46-ce99f9b4c19c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../EXAM_ORD_20172018/Examen_PROGII_17_18_Ordinaria_R00.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAM_ORD_20172018/Examen_PROGII_17_18_Ordinaria_R00.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXAM_ORD_20172018/bin/COMUN/clsConstantes$enTipo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAM_ORD_20172018/bin/COMUN/clsConstantes$enTipo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXAM_ORD_20172018/bin/COMUN/clsConstantes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAM_ORD_20172018/bin/COMUN/clsConstantes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXAM_ORD_20172018/bin/LP/clsUtilidadesLP.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAM_ORD_20172018/bin/LP/clsUtilidadesLP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXAM_ORD_20172018/bin/LP/frmElectrodomesticos.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAM_ORD_20172018/bin/LP/frmElectrodomesticos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXAM_ORD_20172018/bin/clsMainElectrodomesticos.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAM_ORD_20172018/bin/clsMainElectrodomesticos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXAM_ORD_20172018/src/COMUN/clsConstantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAM_ORD_20172018/src/COMUN/clsConstantes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXAM_ORD_20172018/src/LP/frmElectrodomesticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAM_ORD_20172018/src/LP/frmElectrodomesticos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXTRAORDINARIA_17-18/Examen_PROGII_17_18_ExtraOrdinaria_R00.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../EXTRAORDINARIA_17-18/Examen_PROGII_17_18_ExtraOrdinaria_R00.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EXTRAORDINARIA_17-18/src/LP/frmElectrodomesticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EXTRAORDINARIA_17-18/src/LP/frmElectrodomesticos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_15.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Examen/LD/Conexion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Examen/LD/Conexion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Examen/LD/clsDatos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Examen/LD/clsDatos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Examen/LD/constantesBD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Examen/LD/constantesBD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Examen/LN/GestorLN.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Examen/LN/GestorLN.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Examen/LN/Movil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Examen/LN/Movil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Examen/LN/Tradicional.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Examen/LN/Tradicional.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Examen/LP/clsUtilidadesLP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Examen/LP/clsUtilidadesLP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Examen/LP/frmInmobiliaria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Examen/LP/frmInmobiliaria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Examen/clsMainInmobiliaria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Examen/clsMainInmobiliaria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Examen/comun/PropiedadInexistente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Examen/comun/PropiedadInexistente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Examen/comun/ViviendaRepetidaException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Examen/comun/ViviendaRepetidaException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Examen/comun/clsConstantes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Examen/comun/clsConstantes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Examen/comun/itfPersistable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Examen/comun/itfPersistable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Examen/comun/itfProperty.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Examen/comun/itfProperty.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LD/constantesBD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LD/constantesBD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LN/GestorLN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LN/GestorLN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LN/Movil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LN/Movil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LN/Tradicional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LN/Tradicional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LP/frmInmobiliaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LP/frmInmobiliaria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EqualsHasCodeSet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../EqualsHasCodeSet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../EqualsHasCodeSet/src/clsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EqualsHasCodeSet/src/clsMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterfacesComparables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterfacesComparables/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAM_ORD_20172018/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAM_ORD_20172018/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -314,6 +281,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1889706" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
