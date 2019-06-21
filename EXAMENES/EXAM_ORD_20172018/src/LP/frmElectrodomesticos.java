@@ -2,12 +2,14 @@ package LP;
 
 import COMUN.ElectrodomesticoRepetidoExcepcion;
 import COMUN.itfProperty;
+import LN.clsElectrodomestico;
 import LN.clsGestor;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 import javax.swing.JFrame;
@@ -54,7 +56,7 @@ public class frmElectrodomesticos extends JFrame implements ActionListener {
     private final String ACTION_COMMAND_ELIMINAR_ELECTRODOMESTICO = "ACTION_COMMAND_ELIMINAR_ELECTRODOMESTICO";
 
     private clsGestor objGesto = new clsGestor();
-    ArrayList<itfProperty> listaElectrodomesticos;
+    ArrayList<itfProperty> electrodomesticos;
 
 
     /**
@@ -239,10 +241,13 @@ public class frmElectrodomesticos extends JFrame implements ActionListener {
 
 
         switch (e.getActionCommand()) {
+
             case ACTION_COMMAND_ATRAS:
                 JOptionPane.showMessageDialog(this, "Pon aquí tu método para recorrer la lista de objetos hacia atrás");
                 break;
             case ACTION_COMMAND_ADELANTE:
+
+
                 JOptionPane.showMessageDialog(this, "Pon aquí tu método para recorrer la lista de objetos hacia adelante");
                 break;
             case ACTION_COMMAND_REFRESCAR:
@@ -250,16 +255,17 @@ public class frmElectrodomesticos extends JFrame implements ActionListener {
                     objGesto.cargarElectrodomesticos();
 
                     if (OrdenarPorMarca() == true) {
-                        listaElectrodomesticos = objGesto.leerElectrodomesticos(1);
+                        electrodomesticos = objGesto.leerElectrodomesticos(1);
 
-                        for (itfProperty electrodomestico :listaElectrodomesticos){
-                            MostrarInformacionObjeto((String) electrodomestico.getPropertyV(ELEC_MARCA),
-                                    (String) electrodomestico.getPropertyV(ELEC_DESCRIPCION));
-                        }
                     } else if (OrdenarPorTipo() == true) {
-                        listaElectrodomesticos =  objGesto.leerElectrodomesticos(2);
+                        electrodomesticos =  objGesto.leerElectrodomesticos(2);
                     } else {
-                        listaElectrodomesticos = objGesto.leerElectrodomesticos(0);
+                        electrodomesticos = objGesto.leerElectrodomesticos(0);
+                    }
+
+                    for (itfProperty electrodomestico : electrodomesticos){
+                        MostrarInformacionObjeto((String)electrodomestico.getPropertyV(ELEC_MARCA),
+                                (String)electrodomestico.getPropertyV(ELEC_DESCRIPCION));
                     }
 
                 } catch (Exception ex) {
@@ -283,7 +289,7 @@ public class frmElectrodomesticos extends JFrame implements ActionListener {
             case ACTION_COMMAND_ELIMINAR_ELECTRODOMESTICO:
                 String denominacion = txtDenominacion.getText();
                 int _id = 0;
-                for (itfProperty electrodomestico :listaElectrodomesticos){
+                for (itfProperty electrodomestico :electrodomesticos){
                     if (denominacion == electrodomestico.getPropertyV(ELEC_MARCA)){
                         _id = (Integer) electrodomestico.getPropertyV(ELEC_ID);
                     }

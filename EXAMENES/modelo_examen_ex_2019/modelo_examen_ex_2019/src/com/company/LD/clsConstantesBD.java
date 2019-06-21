@@ -15,4 +15,5 @@ public class clsConstantesBD {
     public static final String INSERT_VIVIENDA_MOVIL = "INSERT INTO examen_ex_18_19.vivienda (COD_VIVIENDA,PRECIO,DESCRIPCION,HABITACIONES,METROS,METROS_TERRENO) VALUES (?,?,?,?,?,?)";
     //public static final String INSERT_VIVIENDA_TRADICIONAL = "INSERT INTO examen_ex_18_19.vivienda (COD_VIVIENDA,PRECIO,DESCRIPCION,HABITACIONES,METROS) VALUES (?,?,?,?,?)";
 
+    public static final String DELETE_VIVIENDA = "DELETE FROM examen_ex_18_19.vivienda WHERE id_vivienda = ?";
 }

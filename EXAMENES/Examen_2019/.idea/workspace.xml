@@ -2,7 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b03e7413-9cf7-45d2-9f46-ce99f9b4c19c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../examen_ex_ASIER_MARIN/ExtOrdExam/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examen_ex_ASIER_MARIN/ExtOrdExam/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examen_ex_ASIER_MARIN/ExtOrdExam/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examen_ex_ASIER_MARIN/ExtOrdExam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examen_ex_ASIER_MARIN/ExtOrdExam/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examen_ex_ASIER_MARIN/ExtOrdExam/ExtOrdExam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examen_ex_ASIER_MARIN/ExtOrdExam/src/COMUN/PropiedadInexistente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examen_ex_ASIER_MARIN/ExtOrdExam/src/COMUN/ViviendaRepetidaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examen_ex_ASIER_MARIN/ExtOrdExam/src/COMUN/clsConstantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examen_ex_ASIER_MARIN/ExtOrdExam/src/COMUN/itfProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examen_ex_ASIER_MARIN/ExtOrdExam/src/LD/clsConstantesBD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examen_ex_ASIER_MARIN/ExtOrdExam/src/LD/clsDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examen_ex_ASIER_MARIN/ExtOrdExam/src/LD/clsViviendaBD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examen_ex_ASIER_MARIN/ExtOrdExam/src/LN/clsGestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examen_ex_ASIER_MARIN/ExtOrdExam/src/LN/clsVivienda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examen_ex_ASIER_MARIN/ExtOrdExam/src/LN/clsViviendaMetros.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXAM_ORD_20172018/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAM_ORD_20172018/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAM_ORD_20172018/bin/LN/clsGestor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAM_ORD_20172018/bin/LN/clsGestor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAM_ORD_20172018/bin/LP/frmElectrodomesticos.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAM_ORD_20172018/bin/LP/frmElectrodomesticos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAM_ORD_20172018/src/LN/clsGestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAM_ORD_20172018/src/LN/clsGestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAM_ORD_20172018/src/LP/frmElectrodomesticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAM_ORD_20172018/src/LP/frmElectrodomesticos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modelo_examen_ex_2019/VIVIENDA_MODELO (5).mwb" beforeDir="false" afterPath="$PROJECT_DIR$/../modelo_examen_ex_2019/VIVIENDA_MODELO (5).mwb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modelo_examen_ex_2019/modelo_examen_ex_2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../modelo_examen_ex_2019/modelo_examen_ex_2019/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modelo_examen_ex_2019/modelo_examen_ex_2019/src/com/company/LD/clsConstantesBD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../modelo_examen_ex_2019/modelo_examen_ex_2019/src/com/company/LD/clsConstantesBD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modelo_examen_ex_2019/modelo_examen_ex_2019/src/com/company/LD/clsViviendaBD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../modelo_examen_ex_2019/modelo_examen_ex_2019/src/com/company/LD/clsViviendaBD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modelo_examen_ex_2019/modelo_examen_ex_2019/src/com/company/LN/clsGestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../modelo_examen_ex_2019/modelo_examen_ex_2019/src/com/company/LN/clsGestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modelo_examen_ex_2019/modelo_examen_ex_2019/src/com/company/LP/inmobiliaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/../modelo_examen_ex_2019/modelo_examen_ex_2019/src/com/company/LP/inmobiliaria.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,12 +105,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LP/frmInmobiliaria.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1207">
+            <state relative-caret-position="-3349">
               <caret line="72" column="36" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
-              <folding>
-                <element signature="e#7595#7596#0" expanded="true" />
-                <element signature="e#7644#7645#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -222,8 +245,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,7 +304,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1889706" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -459,6 +481,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/LD/constantesBD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/LN/Movil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -469,21 +498,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LD/constantesBD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LP/frmInmobiliaria.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1207">
+        <state relative-caret-position="-3349">
           <caret line="72" column="36" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
-          <folding>
-            <element signature="e#7595#7596#0" expanded="true" />
-            <element signature="e#7644#7645#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

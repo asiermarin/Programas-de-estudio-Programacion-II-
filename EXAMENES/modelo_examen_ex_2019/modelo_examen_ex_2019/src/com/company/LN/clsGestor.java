@@ -113,7 +113,7 @@ public class clsGestor {
 
                 if (metros_terreno == -1) {
                     clsViviendaTradicional objViviendaT = new clsViviendaTradicional(id, codigo_vivienda,
-                             habitaciones, metros);
+                            habitaciones, metros);
                     viviendasDistintos.add(objViviendaT);
                 } else {
                     clsViviendaMovil objViviendaM = new clsViviendaMovil(id, codigo_vivienda,
@@ -130,8 +130,14 @@ public class clsGestor {
 
     public void eliminarVivienda(int id) {
 
-
-
-
+        try {
+            objDatos.conectarBD();
+            objDatos.eliminarVivienda(id);
+            objDatos.desconectarBD();
+        } catch (SQLException | ClassNotFoundException e) {
+            e.printStackTrace();
+        }
     }
+
+
 }

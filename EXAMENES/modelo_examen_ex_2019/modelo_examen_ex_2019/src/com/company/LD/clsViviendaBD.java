@@ -5,8 +5,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-import static com.company.LD.clsConstantesBD.INSERT_VIVIENDA_MOVIL;
-import static com.company.LD.clsConstantesBD.SELECT_VIVIENDA;
+import static com.company.LD.clsConstantesBD.*;
 
 public class clsViviendaBD {
 
@@ -46,8 +45,17 @@ public class clsViviendaBD {
         return idP;
     }
 
-    public static void deleteVivienda(Connection objConexion, PreparedStatement objStatements, ResultSet objRS, int id) {
+    public static void deleteVivienda(Connection objCon, PreparedStatement objStat, ResultSet objRS, int id) {
 
+        try {
+            objStat = objCon.prepareStatement(DELETE_VIVIENDA);
+
+            objStat.setInt(1, id);//usuarios_codigo_aleatorio
+
+            objStat.executeUpdate();
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
 
     }
 

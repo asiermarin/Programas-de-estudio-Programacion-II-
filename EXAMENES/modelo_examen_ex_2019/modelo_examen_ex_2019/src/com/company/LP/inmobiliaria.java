@@ -18,10 +18,14 @@ public class inmobiliaria {
     public void inicio(){
 
         cargar();
-        sumarVivienda();
+        //sumarVivienda();
+        //quitarVivienda();
 
     }
 
+    /**
+     * Aqui se definen los datos que habrá en la base de datos en caso de ser movil o tradicional
+     */
     public void sumarVivienda(){
 
         try {

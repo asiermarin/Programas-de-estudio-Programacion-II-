@@ -75,9 +75,8 @@ public class clsGestor {
         } else if (codigo == 2){
             clsElectrodomesticoTipo objETipo = new clsElectrodomesticoTipo();
             Collections.sort(listaElectrodomesticos, objETipo);
-        }else {
-            // no se hace nada
         }
+
 
         ArrayList<itfProperty> rViviendas = new ArrayList<>();
 
