@@ -56,7 +56,7 @@ public class GestorLN {
         objDatos.desconectarBD();
     }
 
-    public void cargarViviendas() throws Exception {
+    public void     cargarViviendas() throws Exception {
         objDatos.conectarBD();
         ResultSet rs=objDatos.selectViviendas();
         Tradicional viv;
@@ -75,7 +75,7 @@ public class GestorLN {
         objDatos.desconectarBD();
     }
 
-    public ArrayList<itfProperty> dameViviendas(boolean ordenadas) throws Exception {
+    public ArrayList<itfProperty>   dameViviendas(boolean ordenadas) throws Exception {
         cargarViviendas();
         ArrayList<Tradicional> vivtemp=new ArrayList<>(viviendas);
         if(ordenadas){

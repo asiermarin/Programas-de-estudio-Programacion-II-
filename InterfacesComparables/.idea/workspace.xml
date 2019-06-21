@@ -2,9 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b5caf73-c500-4a3c-a2fb-693f33c34eeb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Comparator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Comparator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Comparator/clsComparadorPorAltura.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Comparator/clsComparadorPorAltura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Comparator/clsCreacionPersonas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Comparator/clsCreacionPersonas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/EXAM_ORD_20172018/Examen_PROGII_17_18_Ordinaria_R00.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/EXAM_ORD_20172018/Examen_PROGII_17_18_Ordinaria_R00.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/EXAM_ORD_20172018/bin/COMUN/clsConstantes$enTipo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/EXAM_ORD_20172018/bin/COMUN/clsConstantes$enTipo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/EXAM_ORD_20172018/bin/COMUN/clsConstantes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/EXAM_ORD_20172018/bin/COMUN/clsConstantes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/EXAM_ORD_20172018/bin/LP/clsUtilidadesLP.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/EXAM_ORD_20172018/bin/LP/clsUtilidadesLP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/EXAM_ORD_20172018/bin/LP/frmElectrodomesticos.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/EXAM_ORD_20172018/bin/LP/frmElectrodomesticos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/EXAM_ORD_20172018/bin/clsMainElectrodomesticos.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/EXAM_ORD_20172018/bin/clsMainElectrodomesticos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/EXAM_ORD_20172018/src/COMUN/clsConstantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/EXAM_ORD_20172018/src/COMUN/clsConstantes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/EXAM_ORD_20172018/src/LP/frmElectrodomesticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/EXAM_ORD_20172018/src/LP/frmElectrodomesticos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/EXTRAORDINARIA_17-18/Examen_PROGII_17_18_ExtraOrdinaria_R00.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/EXTRAORDINARIA_17-18/Examen_PROGII_17_18_ExtraOrdinaria_R00.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/EXTRAORDINARIA_17-18/src/LP/frmElectrodomesticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/EXTRAORDINARIA_17-18/src/LP/frmElectrodomesticos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/.idea/libraries/mysql_connector_java_8_0_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/.idea/libraries/mysql_connector_java_8_0_15.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/LD/Conexion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/LD/Conexion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/LD/clsDatos.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/LD/clsDatos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/LD/constantesBD.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/LD/constantesBD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/LN/GestorLN.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/LN/GestorLN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/LN/Movil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/LN/Movil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/LN/Tradicional.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/LN/Tradicional.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/LP/clsUtilidadesLP.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/LP/clsUtilidadesLP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/LP/frmInmobiliaria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/LP/frmInmobiliaria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/clsMainInmobiliaria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/clsMainInmobiliaria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/comun/PropiedadInexistente.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/comun/PropiedadInexistente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/comun/ViviendaRepetidaException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/comun/ViviendaRepetidaException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/comun/clsConstantes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/comun/clsConstantes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/comun/itfPersistable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/comun/itfPersistable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/comun/itfProperty.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/out/production/Examen/comun/itfProperty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/src/LD/constantesBD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/src/LD/constantesBD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/src/LN/GestorLN.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/src/LN/GestorLN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/src/LN/Movil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/src/LN/Movil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/src/LN/Tradicional.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/src/LN/Tradicional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/src/LP/frmInmobiliaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/src/LP/frmInmobiliaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualsHasCodeSet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualsHasCodeSet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualsHasCodeSet/src/clsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualsHasCodeSet/src/clsMain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +48,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="544">
               <caret line="37" column="61" selection-start-line="37" selection-start-column="61" selection-end-line="37" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -30,12 +60,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Edad/Estudiante.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1292">
-              <caret line="90" column="42" lean-forward="true" selection-start-line="90" selection-start-column="42" selection-end-line="90" selection-end-column="42" />
+            <state relative-caret-position="431">
+              <caret line="90" column="42" selection-start-line="90" selection-start-column="42" selection-end-line="90" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1358#1359#0" expanded="true" />
-                <element signature="e#1385#1386#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -44,7 +72,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Double.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-208">
+            <state relative-caret-position="15912">
               <caret line="993" column="15" selection-start-line="993" selection-start-column="15" selection-end-line="993" selection-end-column="15" />
               <folding>
                 <element signature="e#38954#38955#0" expanded="true" />
@@ -122,6 +150,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,11 +180,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552936430632" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -204,7 +233,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25681818" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25661764" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -269,9 +298,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="37" column="61" selection-start-line="37" selection-start-column="61" selection-end-line="37" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Double.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-208">
+        <state relative-caret-position="15912">
           <caret line="993" column="15" selection-start-line="993" selection-start-column="15" selection-end-line="993" selection-end-column="15" />
           <folding>
             <element signature="e#38954#38955#0" expanded="true" />
@@ -300,24 +339,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="37" column="61" selection-start-line="37" selection-start-column="61" selection-end-line="37" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Edad/Estudiante.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="90" column="42" lean-forward="true" selection-start-line="90" selection-start-column="42" selection-end-line="90" selection-end-column="42" />
+        <state relative-caret-position="431">
+          <caret line="90" column="42" selection-start-line="90" selection-start-column="42" selection-end-line="90" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1358#1359#0" expanded="true" />
-            <element signature="e#1385#1386#0" expanded="true" />
           </folding>
         </state>
       </provider>

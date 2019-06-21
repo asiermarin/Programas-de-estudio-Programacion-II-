@@ -70,7 +70,7 @@ public class frmInmobiliaria extends JFrame implements ActionListener, ListSelec
 
 
     private GestorLN gln;
-    private ArrayList<itfProperty> viviendas;
+    private ArrayList<itfProperty>  viviendas;
 
 
     /**
@@ -253,6 +253,7 @@ public class frmInmobiliaria extends JFrame implements ActionListener, ListSelec
         lstCodigos.setModel(listModel);
 
     }
+
 
 
     /**

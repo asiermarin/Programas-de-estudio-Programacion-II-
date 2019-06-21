@@ -11,4 +11,6 @@ public class constantesBD {
     public final static String NAME = "mydb";
     public final static String DIRECCION = "localhost";
 
+
+
 }

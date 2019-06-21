@@ -114,6 +114,6 @@ public class Tradicional  implements itfProperty , itfPersistable,Comparable<Tra
 
     @Override
     public int compareTo(Tradicional o) {
-        return this.codigo.compareTo(o.codigo);
+            return this.codigo.compareTo(o.codigo);
     }
 }

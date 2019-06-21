@@ -2,32 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd819428-82eb-469f-a163-9e93e49d2e15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../interfaces graficos/yyy/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/src/LD/constantesBD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/src/LD/constantesBD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/src/LN/GestorLN.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/src/LN/GestorLN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXAMENES/Examen_2019/src/LN/Movil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EXAMENES/Examen_2019/src/LN/Movil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/clsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clsMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interfaces graficos/DesktopPaneWithButton/bin/TestInternalFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces graficos/DesktopPaneWithButton/bin/TestInternalFrame$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interfaces graficos/DesktopPaneWithButton/bin/TestInternalFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces graficos/DesktopPaneWithButton/bin/TestInternalFrame$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interfaces graficos/DesktopPaneWithButton/bin/TestInternalFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces graficos/DesktopPaneWithButton/bin/TestInternalFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interfaces graficos/Jdialog/bin/nuevo_Jdialog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces graficos/Jdialog/bin/nuevo_Jdialog$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interfaces graficos/Jdialog/bin/nuevo_Jdialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces graficos/Jdialog/bin/nuevo_Jdialog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interfaces graficos/SwingExamples/bin/BorderLayoutDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces graficos/SwingExamples/bin/BorderLayoutDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interfaces graficos/SwingExamples/bin/BoxLayoutDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces graficos/SwingExamples/bin/BoxLayoutDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interfaces graficos/SwingExamples/bin/FlowLayoutDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces graficos/SwingExamples/bin/FlowLayoutDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interfaces graficos/SwingExamples/bin/FlowLayoutDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces graficos/SwingExamples/bin/FlowLayoutDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interfaces graficos/SwingExamples/bin/GridLayoutDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces graficos/SwingExamples/bin/GridLayoutDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interfaces graficos/SwingExamples/bin/GridLayoutDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces graficos/SwingExamples/bin/GridLayoutDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interfaces graficos/SwingExamples/bin/HelloWorldSwing.class" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces graficos/SwingExamples/bin/HelloWorldSwing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interfaces graficos/SwingExamples/src/HelloWorldSwing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces graficos/SwingExamples/src/HelloWorldSwing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interfaces graficos/VENTANAS/bin/MyFR$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces graficos/VENTANAS/bin/MyFR$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interfaces graficos/VENTANAS/bin/MyFR.class" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces graficos/VENTANAS/bin/MyFR.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interfaces graficos/VENTANAS/bin/clsMAIN.class" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces graficos/VENTANAS/bin/clsMAIN.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interfaces graficos/jbutton/Border.java" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces graficos/jbutton/Border.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interfaces graficos/splitPanel/bin/LP/Ventana1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces graficos/splitPanel/bin/LP/Ventana1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interfaces graficos/splitPanel/bin/LP/Ventana1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces graficos/splitPanel/bin/LP/Ventana1$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interfaces graficos/splitPanel/bin/LP/Ventana1$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces graficos/splitPanel/bin/LP/Ventana1$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interfaces graficos/splitPanel/bin/LP/Ventana1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces graficos/splitPanel/bin/LP/Ventana1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interfaces graficos/yyy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces graficos/yyy/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -46,11 +26,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/clsMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10232">
-              <caret line="686" column="5" selection-start-line="686" selection-start-column="5" selection-end-line="686" selection-end-column="5" />
+            <state relative-caret-position="199">
+              <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1168#1178#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -59,7 +38,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/clsBarco.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1751">
+            <state relative-caret-position="2261">
               <caret line="149" column="4" selection-start-line="149" selection-start-column="4" selection-end-line="149" selection-end-column="4" />
             </state>
           </provider>
@@ -97,8 +76,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,6 +92,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,7 +147,7 @@
     <frame x="-8" y="-8" width="1376" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27272728" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2720588" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -197,28 +176,27 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Object.java">
+    <entry file="file://$PROJECT_DIR$/src/clsMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1445">
-          <caret line="108" column="22" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="22" />
+        <state relative-caret-position="199">
+          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/clsBarco.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1751">
+        <state relative-caret-position="2261">
           <caret line="149" column="4" selection-start-line="149" selection-start-column="4" selection-end-line="149" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/clsMain.java">
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10232">
-          <caret line="686" column="5" selection-start-line="686" selection-start-column="5" selection-end-line="686" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1168#1178#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1445">
+          <caret line="108" column="22" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="22" />
         </state>
       </provider>
     </entry>

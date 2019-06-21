@@ -29,8 +29,10 @@ public class Movil extends Tradicional{
     @Override
     public Object getProperty(String prop) {
         switch (prop){
-            case VIVIENDA_METROS_TERRENO:return this.metros_terreno;
-            default:return super.getProperty(prop);
+            case VIVIENDA_METROS_TERRENO:
+                return this.metros_terreno;
+            default:
+                return super.getProperty(prop);
         }
     }
 
